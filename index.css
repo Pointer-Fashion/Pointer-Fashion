@@ -494,7 +494,7 @@ ul li a {
     }
     
     .header-top-gender h2 {
-        font-size: var(--s-f-s);
+        font-size: var(--t-f-s);
         padding: var(--p-s);
     }
     
@@ -516,7 +516,7 @@ ul li a {
 
     .slider {
         width: 99%;
-        height: 45vh;
+        height: 35vh;
     }
     
     /* ======================== Gender Selection ======================== */
@@ -557,7 +557,7 @@ ul li a {
     }
     
     .samples-dres{
-        width: 95%;
+        width: 100%;
         grid-template-columns: repeat(3,1fr);
         gap: 15px;
     }
@@ -619,7 +619,7 @@ ul li a {
     /* ======================== footer part======================== */
 
     .footer{
-        height: 30vh;
+        height: 25vh;
     }
 
     .footer-top{
@@ -659,7 +659,7 @@ ul li a {
     }
     
     .header-top-img span img {
-        width: 40%;
+        width: 60%;
         height: 80%;
     }
 
@@ -684,7 +684,7 @@ ul li a {
     /* Slider section at the top */
     .slider {
         width: 97%;
-        height: 55vh;
+        height: 35vh;
     }
     
     /* ======================== Gender Selection ======================== */
@@ -717,7 +717,7 @@ ul li a {
     /* ======================== Sample dress type======================== */
     
     .sample {
-        width: 90%;
+        width: 95%;
         padding: var(--p-s);
     }
 
