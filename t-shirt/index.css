@@ -37,10 +37,10 @@ main .sample-dresses-child{
     }
 
     main .sample-dresses-child{
-        width: 85%;
+        width: 95%;
         padding: 0.5rem 1rem;
-        grid-template-columns: repeat(2,1fr);
-        gap: 4rem;
+        grid-template-columns: repeat(3,1fr);
+        gap: 1.5rem;
     }
     
     .sample-dresses-child .dress{
