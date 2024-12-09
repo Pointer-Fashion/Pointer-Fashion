@@ -74,7 +74,7 @@ function sendOrderDetails(image, type, price, sizeSelectorId) {
 - Image: ${image}`;
 
     const encodedMessage = encodeURIComponent(message);
-    const companyNumber = "91 9842250208"; // Replace with the company's WhatsApp number
+    const companyNumber = "91 8220290905"; // Replace with the company's WhatsApp number
     const whatsappURL = `https://wa.me/${companyNumber}?text=${encodedMessage}`;
 
     window.open(whatsappURL, "_blank");
