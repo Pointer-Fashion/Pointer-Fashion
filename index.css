@@ -108,8 +108,12 @@ body {
     padding: 0.5rem;
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    
 }
-
+.gender-collection-select a{
+    text-decoration: none;
+    color: white;
+}
 .gender-collection-select .name {
     width: 100%;
     height: 100%;
